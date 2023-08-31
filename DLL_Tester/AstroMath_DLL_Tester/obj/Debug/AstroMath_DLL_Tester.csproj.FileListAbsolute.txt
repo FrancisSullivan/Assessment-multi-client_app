@@ -1,0 +1,9 @@
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\bin\Debug\AstroMath_DLL_Tester.exe.config
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\bin\Debug\AstroMath_DLL_Tester.exe
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\bin\Debug\AstroMath_DLL_Tester.pdb
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\bin\Debug\AstroMath.dll
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\obj\Debug\AstroMath_DLL_Tester.csproj.AssemblyReference.cache
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\obj\Debug\AstroMath_DLL_Tester.csproj.CoreCompileInputs.cache
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\obj\Debug\AstroMath_DLL_Tester.csproj.CopyComplete
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\obj\Debug\AstroMath_DLL_Tester.exe
+C:\Users\francissullivan\source\repos\AstroMath_DLL_Tester\obj\Debug\AstroMath_DLL_Tester.pdb
