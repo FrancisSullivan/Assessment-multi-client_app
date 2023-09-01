@@ -1,0 +1,9 @@
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\bin\Debug\astronomy_calculator_server.exe.config
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\bin\Debug\astronomy_calculator_server.exe
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\bin\Debug\astronomy_calculator_server.pdb
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\bin\Debug\AstroMath.dll
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\obj\Debug\astronomy_calculator_server.csproj.AssemblyReference.cache
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\obj\Debug\astronomy_calculator_server.csproj.CoreCompileInputs.cache
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\obj\Debug\astronomy_calculator_server.csproj.CopyComplete
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\obj\Debug\astronomy_calculator_server.exe
+C:\Users\francissullivan\source\repos\astronomy_calculator_server\obj\Debug\astronomy_calculator_server.pdb
