@@ -1,7 +1,0 @@
-C:\Users\francissullivan\source\repos\AstroMath\bin\Release\AstroMath.xml
-C:\Users\francissullivan\source\repos\AstroMath\bin\Release\AstroMath.dll
-C:\Users\francissullivan\source\repos\AstroMath\bin\Release\AstroMath.pdb
-C:\Users\francissullivan\source\repos\AstroMath\obj\Release\AstroMath.csproj.AssemblyReference.cache
-C:\Users\francissullivan\source\repos\AstroMath\obj\Release\AstroMath.csproj.CoreCompileInputs.cache
-C:\Users\francissullivan\source\repos\AstroMath\obj\Release\AstroMath.dll
-C:\Users\francissullivan\source\repos\AstroMath\obj\Release\AstroMath.pdb

@@ -1,7 +1,0 @@
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\bin\Debug\astronomy_calculator_server_tester.exe.config
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\bin\Debug\astronomy_calculator_server_tester.exe
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\bin\Debug\astronomy_calculator_server_tester.pdb
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\obj\Debug\astronomy_calculator_server_tester.csproj.AssemblyReference.cache
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\obj\Debug\astronomy_calculator_server_tester.csproj.CoreCompileInputs.cache
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\obj\Debug\astronomy_calculator_server_tester.exe
-C:\Users\francissullivan\source\repos\astronomy_calculator_server_tester\obj\Debug\astronomy_calculator_server_tester.pdb
